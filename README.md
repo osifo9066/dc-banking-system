@@ -59,4 +59,4 @@ python main.py
 
 # 👨‍💻 Author
 
-Samuel
+Osifo Samuel
